@@ -1,0 +1,13 @@
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.exe
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.deps.json
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.runtimeconfig.json
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.runtimeconfig.dev.json
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.dll
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\bin\Debug\netcoreapp3.1\RaceSimulator Level 1.pdb
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.csprojAssemblyReference.cache
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.AssemblyInfoInputs.cache
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.AssemblyInfo.cs
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.csproj.CoreCompileInputs.cache
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.dll
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.pdb
+C:\Projects\Racesimulator\RaceSimulator Level 1\RaceSimulator Level 1\obj\Debug\netcoreapp3.1\RaceSimulator Level 1.genruntimeconfig.cache
