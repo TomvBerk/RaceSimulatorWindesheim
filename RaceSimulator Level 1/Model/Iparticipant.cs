@@ -1,26 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Model
+﻿namespace Model
 {
-    interface Iparticipant
+    public interface Iparticipant
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public int Points { get; set; }
         public Iequipment Equipment { get; set; }
         public TeamColors Teamcolor { get; set; }
-            
+
     }
 
-    enum TeamColors { 
-            Red,
-            Green,
-            Yellow,
-            Grey,
-            Blue
+    public enum TeamColors
+    {
+        Red = 0,
+        Green = 1,
+        Yellow = 2,
+        Grey = 3,
+        Blue = 4
 
 
-    
+
     }
 }

@@ -5,6 +5,9 @@
       "Controller/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Controller.dll": {}
         },
@@ -43,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TomVa\\.nuget\\packages\\": {}
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\RaceSimulator Level 1\\View.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\RaceSimulator Level 1\\View.csproj",
       "projectName": "View",
-      "projectPath": "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\RaceSimulator Level 1\\View.csproj",
-      "packagesPath": "C:\\Users\\TomVa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\RaceSimulator Level 1\\obj\\",
+      "projectPath": "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\RaceSimulator Level 1\\View.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\RaceSimulator Level 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TomVa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -68,11 +71,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\Controller\\Controller.csproj": {
-              "projectPath": "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\Controller\\Controller.csproj"
+            "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\Controller\\Controller.csproj": {
+              "projectPath": "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\Controller\\Controller.csproj"
             },
-            "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\Model\\Model.csproj": {
-              "projectPath": "C:\\Projects\\Racesimulator\\RaceSimulator Level 1\\Model\\Model.csproj"
+            "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Tom\\Documents\\GitHub\\RaceSimulatorWindesheim\\RaceSimulator Level 1\\Model\\Model.csproj"
             }
           }
         }
@@ -100,7 +103,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

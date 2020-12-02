@@ -1,18 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
 
 namespace Model
 {
-    class Track : Section
+    public class Track : Section
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public LinkedList<Section> Sections { get; set; }
-        Track(String name, SectionTypes[] sections) {
+        public Track(string name, SectionTypes[] sections)
+        {
+            LinkedList<Section> List = new LinkedList<Section>();
+            List = arraytypesconverter(sections);
+
+            List = this.Sections;
             name = this.Name;
-            sections[] = new this.Sections; 
+        }
+        public LinkedList<Section> arraytypesconverter(SectionTypes[] sectiontypes)
+        {
+            var result = new LinkedList<Section>();
+
+            foreach (SectionTypes Sectiess in sectiontypes)
+            {
+                var temp = new Section();
+                temp.SectionType = Sectiess;
+                result.AddLast(temp);
+            }
+
+            return result;
+
         }
     }
-    
 }

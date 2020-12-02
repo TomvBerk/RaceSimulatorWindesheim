@@ -1,0 +1,12 @@
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\bin\Debug\netcoreapp3.1\Controller.deps.json
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\bin\Debug\netcoreapp3.1\Controller.dll
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\bin\Debug\netcoreapp3.1\Controller.pdb
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.csprojAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfoInputs.cache
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfo.cs
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.dll
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.pdb
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Tom\Documents\GitHub\RaceSimulatorWindesheim\RaceSimulator Level 1\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CopyComplete

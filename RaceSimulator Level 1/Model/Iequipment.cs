@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net;
-using System.Text;
-
-namespace Model
+﻿namespace Model
 {
-    interface Iequipment
+    public interface Iequipment
     {
-        int Quality { get; set; }
-        int Performance { get; set; }
-        int Speed { get; set; }
-        Boolean IsBroken { get; set; }
-        
+        public int Quality { get; set; }
+        public int Performance { get; set; }
+        public int Speed { get; set; }
+        public bool IsBroken { get; set; }
+
     }
 }
